@@ -1,3 +1,5 @@
-import pygame as py
+import pygame 
 S_HEIGHT = 700
-S_WIDTH = 800
+S_WIDTH = 700
+pygame.init()
+pygame.display.set_caption('first project')
